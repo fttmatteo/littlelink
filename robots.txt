@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://link.asesoriasfamilia.com/sitemap.xml
